@@ -1,6 +1,6 @@
 # Simple Express Web Server
 
-This is a basic web server which runs on [Node.js](https://nodejs.org) using the [Express](https://www.npmjs.com/package/express) package. This writeup is for use on on Linux however it is compatible with other operating systems.
+This is a basic web server which runs on [Node.js](https://nodejs.org) using the [Express](https://www.npmjs.com/package/express) package. This writeup is for use on Linux however it is compatible with other operating systems.
 
 ## Usage
 
@@ -16,4 +16,4 @@ This will install all the require dependancies. If you receive an error, you may
 
 To run your server just type `node server.js`
 
-You can then open a webpage and navigate to [127.0.0.1:8000](http://127.0.0.1:8000).
+You can then open a webpage and navigate to the IP address of the machine followed by port 8000 `192.168.1.2:8000`
