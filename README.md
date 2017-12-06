@@ -16,4 +16,4 @@ This will install all the require dependancies. If you receive an error, you may
 
 To run your server just type `node server.js`
 
-You can then open a webpage and navigate to [127.0.0.1:8000](127.0.0.1:8000).
+You can then open a webpage and navigate to [127.0.0.1:8000](http://127.0.0.1:8000).
